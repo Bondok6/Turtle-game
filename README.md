@@ -1,3 +1,4 @@
 # Turtle-game
-python3 _ turtle library 
+python3-turtle library
+
  simple game interface.
